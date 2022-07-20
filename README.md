@@ -1,5 +1,5 @@
 - ##  Olá mundo! eu sou o lopesmtt
-- 👀 I’m interested in ...
+- 👀 Estou interessado em conhecer o universo da programação!
 - 🌱 Estudando atualmente HTML & Javascript
 - 📫 Contate-me em: matheusllopes22@gmail.com
 - 😍 Pronnouns: ele/dele
