@@ -1,7 +1,7 @@
 - ##  Olá mundo! eu sou o lopesmtt
 - 👀 Estou interessado em conhecer o universo da programação!
 - 🌱 Estudando atualmente HTML, css e Javascript
-- 📫 Contate-me em: matheusllopes22@gmail.com
+- 📫 Contate-me em: matheusllopes22@gmail.com / Instagram: @lopesmtt
 - 😍 Pronnouns: ele/dele
 --->
 <div align="center">
